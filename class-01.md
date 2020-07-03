@@ -55,4 +55,4 @@ Escape characters are used to include special characters in your pages such as <
 
 ### traditional HTML
 
-[trad html](images/traditional-html.PNG)
+![trad html](images/traditional-html.PNG)
