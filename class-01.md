@@ -1,1 +1,1 @@
-[HOME](dinaalsaid.github.io/reading-notes/) [NEXT](dinaalsaid.github.io/reading-notes/) 
+[HOME](dinaalsaid.github.io/reading-notes/)  &nbsp; [NEXT](dinaalsaid.github.io/reading-notes/) 
