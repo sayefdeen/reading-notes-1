@@ -91,7 +91,8 @@ adding the following lines to your CSS file and HTML file will solve the problem
 ```CSS
 header, section, footer, aside, nav, article, figure
 {
-display: block;}
+    display: block;
+}
 ```
 ```HTML
 <!--[if lt IE 9]>
@@ -103,3 +104,16 @@ trunk/html5.js"></script>
 ## Scripts 
 
 Scripts are series of instructions that a computer can follow to achieve a goal.
+the steps to write a script:
+* DEFINE THE GOAL: what do you want the script to do
+* DESIGN THE SCRIPT: using flowcharts to write tasks
+* CODE EACH STEP: convert the tasks into code in any programming language following the syntax and vocabulary (in our case JavaScript)
+
+## Objects and events
+
+* **objects** : can represent anything physical in the real world 
+* **properties** : an object property is a characteristic.
+* **events**: are the a way to track actions on objects and can be used to trigger sections of the code.
+* **methods**: can contain lots of instructions that together represent one task.
+
+when opening a webpage in a browser there are two main objects : the window object(represented as tabs) and the document object(represented as an HTML page).
