@@ -28,4 +28,31 @@ Elements have attributes to describe them. for example:
     <p lang="fr">Paragraphe en Français</p>
 ````
 
-## HTML versions
+<!-- ## HTML versions
+
+* HTML4 : released in 1997
+* XHTML : releaased in 2000
+* HTML5 : released in 2000 and is the one commonly used recently. -->
+The versions are indicated in the beginning of an HTML file through the DOCTYPE tag.
+
+## Block and Inline elements 
+
+&nbsp;|Block element|Inline element
+--------|------|-----------
+definition|starts on a new line | continues on the same line as neighbouring elements.
+examples|<h1>, <p>, <ul>, and <li> |<a>, <b>, <em>, and <img>
+useful elementts|div element to group inline and block elements |span element to group inline elements
+
+## Some escape charecters
+Escape characters are used to include special characters in your pages such as <, >, and ©.
+
+* `&lt;` or `&#60;` for <
+* `&amp;`; or `&#38;` for &
+* `&copy;` or `&#169;` for copyright symbol
+* `&gt;` or `&amp;` for >
+
+## HTML 5
+
+### traditional HTML
+
+[trad html](images/traditional-html.PNG)
