@@ -40,7 +40,7 @@ The versions are indicated in the beginning of an HTML file through the DOCTYPE 
 &nbsp;|Block element|Inline element
 --------|------|-----------
 definition|starts on a new line | continues on the same line as neighbouring elements.
-examples|<h1>, <p>, <ul>, and <li> |<a>, <b>, <em>, and <img>
+examples| h1, p, ul and li |a, b, em, and img
 useful elementts|div element to group inline and block elements |span element to group inline elements
 
 ## Some escape charecters
@@ -51,8 +51,55 @@ Escape characters are used to include special characters in your pages such as <
 * `&copy;` or `&#169;` for copyright symbol
 * `&gt;` or `&amp;` for >
 
-## HTML 5
+## HTML 5 layout 
 
-### traditional HTML
+**traditional HTML**| **HTML5**
+------|--------
+![trad html](images/traditional-html.PNG)|![html](images/html5.PNG)
 
-![trad html](images/traditional-html.PNG)
+
+## Getting started in building websites
+
+#### important things to consider when building a site 
+
+* The website's target audience : - age - gender -region  - individual or company 
+* The reason of visit : design content according to the motivation and goals of the visitors
+* what do they want to achieve 
+* what info they need : on the product or the organization 
+* how often do they visit 
+
+### design 
+
+After figuring out the content the **first** step is to create a site map of how the pages connectd and grouped together to make navigation easier and more effective.
+when designing site navigation make sure the design is:
+ * concise 
+ * clear 
+ * selective
+ * in context 
+ * interactive
+ * consistent
+
+**second** step is to create a wireframe of how the site will look like, nothing fancy just a simple sketch.
+**lastly** combine the content and the design using HTML to create the final pages layout.
+
+
+
+
+## How old browsers understand new elements
+
+adding the following lines to your CSS file and HTML file will solve the problem.
+```CSS
+header, section, footer, aside, nav, article, figure
+{
+display: block;}
+```
+```HTML
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/
+trunk/html5.js"></script>
+<![endif]-->
+```
+
+## Scripts 
+
+Scripts are series of instructions that a computer can follow to achieve a goal.
