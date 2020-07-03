@@ -9,7 +9,7 @@ The following table has links to the summerization notes and topics.
 
 Subject|brief
 -------|-------
-[introduction](dinaalsaid.github.io/reading-notes/class-01)|introduction to HTML and programming
-[subject2](dinaalsaid.github.io/reading-notes/)|
-[subject3](dinaalsaid.github.io/reading-notes/)|
-[subject4](dinaalsaid.github.io/reading-notes/)|
+[introduction](https://dinaalsaid.github.io/reading-notes/class-01)|introduction to HTML and programming
+[subject2](https://dinaalsaid.github.io/reading-notes/)|
+[subject3](https://dinaalsaid.github.io/reading-notes/)|
+[subject4](https://dinaalsaid.github.io/reading-notes/)|
