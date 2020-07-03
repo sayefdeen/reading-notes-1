@@ -13,5 +13,19 @@ For small websites this is enough usually, but for larger websites databases for
 for example if we want to create a heading (bold and larger font size) we can use the following code:
 
 ````HTML
-<h1>Headind content</h1>
+    <h1> Heading content </h1>
 ````
+An HTML element is made up of an opening and a closing tag and the content inside.
+
+![HTML tags](https://lh3.googleusercontent.com/proxy/lqnjNsaaTJG9OVuTpxYPPm6hxiq3ZPQh1TGCzMUcXAX9ZCmn_MN_QRQDh7ElqsIz16Il8VsSxSPYNronkmCMfmx9hUqkkpYPDNjzY6S39yA)
+
+Some elements do not contain content therefore only consist of one tag (do not have a closing tag)
+
+
+Elements have attributes to describe them. for example:
+
+````HTML
+    <p lang="fr">Paragraphe en Français</p>
+````
+
+## HTML versions
