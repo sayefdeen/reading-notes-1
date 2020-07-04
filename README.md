@@ -1,4 +1,4 @@
-# reading-notes
+# Code 201 reading notes
 
 ## About 
 This is a notes section for web development classes. 
@@ -13,3 +13,14 @@ Subject|brief
 [subject2](https://dinaalsaid.github.io/reading-notes/)|
 [subject3](https://dinaalsaid.github.io/reading-notes/)|
 [subject4](https://dinaalsaid.github.io/reading-notes/)|
+[subject5](https://dinaalsaid.github.io/reading-notes/)|
+[subject6](https://dinaalsaid.github.io/reading-notes/)|
+[subject7](https://dinaalsaid.github.io/reading-notes/)|
+[subject8](https://dinaalsaid.github.io/reading-notes/)|
+[subject9](https://dinaalsaid.github.io/reading-notes/)|
+[subject10](https://dinaalsaid.github.io/reading-notes/)|
+[subject11](https://dinaalsaid.github.io/reading-notes/)|
+[subject12](https://dinaalsaid.github.io/reading-notes/)|
+[subject13](https://dinaalsaid.github.io/reading-notes/)|
+[subject14](https://dinaalsaid.github.io/reading-notes/)|
+[subject15](https://dinaalsaid.github.io/reading-notes/)|
