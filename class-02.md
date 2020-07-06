@@ -1,4 +1,4 @@
-[PREVIOUS](https://dinaalsaid.github.io/reading-notes/class-01) &nbsp;[HOME](https://dinaalsaid.github.io/reading-notes/)  &nbsp; [NEXT](https://dinaalsaid.github.io/reading-notes/) 
+[PREVIOUS](https://dinaalsaid.github.io/reading-notes/class-01) &nbsp;[HOME](https://dinaalsaid.github.io/reading-notes/)  &nbsp; [NEXT](https://dinaalsaid.github.io/reading-notes/class-03) 
 
 # Introduction follow up
 
