@@ -47,3 +47,31 @@ switch statements allow you to compare a value against possible outcomes (and al
 ```
 It is important when writing a condition to keep on mind Truthy and Faulty expressions (expressions that may not appear to be true or false directly).
 **ex:** NaN (not a number), null, 0 and undefined are  considered false 
+
+
+### for loops
+
+For uses a counter as a condition
+to run code a number of times until the 
+condition is false.
+
+````
+for (initialize, condition, update){}
+````
+
+
+### while loop 
+
+````
+while (condition){}
+````
+
+while runs the code block until the condition is false.
+It does not initialize or update the loop 
+counter (unless you write the initialization and update 
+by yourself in the code block).
+
+### Do while 
+Do while loop will go through the loop once before checking the condition then continue as while loop does.
+
+
