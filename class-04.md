@@ -48,3 +48,12 @@ types of scopes:
 * global
 * local
 Global variables use more memory. The browser has to remember them for as long as the web page using them is loaded. Local variables are only remembered during the period of time that a function is being executed (within their local scope)
+
+
+### why is pair programming good
+* Greater efficiency
+* Engaged collaboration
+* Learning from fellow students
+* Social skills
+* Job interview readiness
+* Work environment readiness
