@@ -12,7 +12,7 @@ Subject|brief
 [class 01](https://dinaalsaid.github.io/reading-notes/class-01)|intro to HTML and programming
 [class 02](https://dinaalsaid.github.io/reading-notes/class-02)|follow up on class01 and intro to CSS
 [class 03](https://dinaalsaid.github.io/reading-notes/class-03)|Lists, boxes and switch statements
-[subject4](https://dinaalsaid.github.io/reading-notes/)|
+[class 04](https://dinaalsaid.github.io/reading-notes/class-04)|links, layouts, function expressions
 [subject5](https://dinaalsaid.github.io/reading-notes/)|
 [subject6](https://dinaalsaid.github.io/reading-notes/)|
 [subject7](https://dinaalsaid.github.io/reading-notes/)|
